@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Apple" model="Iphone 16 pro max" releaseYear="2024">
+        <specs>
+            <screenSize unit="inch">6.9</screenSize>
+            <batteryCapacity unit="mAH">4200</batteryCapacity>
+            <storage unit="GB">256</storage>
+            <camera unit="MP">75</camera>
+        </specs>
+        <price currency="USD">999</price>
+    </smartphone>
 </smartphones>
